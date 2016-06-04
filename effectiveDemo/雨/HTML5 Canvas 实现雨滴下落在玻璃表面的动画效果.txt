@@ -1,0 +1,1 @@
+Rainyday.js 是一个轻量的 JavaScript 库，利用 HTML5 Canvas 实现雨滴下落在玻璃表面的动画效果。Rainyday.js 尽可能的模拟现实的雨滴效果，几乎可以以假乱真了。
